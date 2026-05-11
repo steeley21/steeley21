@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! Catch me developing cool stuff 😊
 
 <!--
 **steeley21/steeley21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
